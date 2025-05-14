@@ -1,0 +1,11 @@
+let task = [12, [56, 14], 'email', 'password', 2.25, null, 85, false, true, 95 ];
+console.log(task[0]);
+console.log(task[1]);
+console.log(task[2]);
+console.log(task[3]);
+console.log(task[4]);
+console.log(task[5]);
+console.log(task[6]);
+console.log(task[7]);
+console.log(task[8]);
+console.log(task[9]);
