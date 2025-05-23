@@ -11,4 +11,6 @@ arr[6]=596;
 arr[7]='sdfsvvv';
 arr[8]=true;
 arr[9]=545445;
-console.log(arr);
+for(let i=0;i<arr.length;i++){
+    console.log(arr[i]);
+}
